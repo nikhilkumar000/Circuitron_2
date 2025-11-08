@@ -137,7 +137,7 @@ const ContactPreview = () => {
                   <div>
                     <h4 className="text-white font-semibold">Email</h4>
                     <p className="text-gray-300">circuitron@rvscet.ac.in</p>
-                    <p className="text-gray-300">techxpo2025@rvscet.ac.in</p>
+                   
                   </div>
                 </div>
 
@@ -162,14 +162,14 @@ const ContactPreview = () => {
                   </div>
                   <div>
                     <h4 className="text-white font-semibold">Phone</h4>
-                    <p className="text-gray-300">+91 9876543210</p>
-                    <p className="text-gray-300">+91 9876543211</p>
+                    <p className="text-gray-300">+91 8019741521</p>
+                    <p className="text-gray-300">+91 8002923994</p>
                   </div>
                 </div>
               </div>
 
               {/* Social media links */}
-              <div className="space-y-4">
+              {/* <div className="space-y-4">
                 <h4 className="text-white font-semibold">Follow Us</h4>
                 <div className="flex space-x-4">
                   {[
@@ -190,7 +190,7 @@ const ContactPreview = () => {
                     </motion.a>
                   ))}
                 </div>
-              </div>
+              </div> */}
 
               <MotionLink
                 to="/contact"
