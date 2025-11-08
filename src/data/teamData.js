@@ -3,7 +3,7 @@
 
 export const facultyCoordinators = [
   {
-    name: "Prof. Shushant Mahanty",
+    name: "Prof. Dr. Sushanta Mahanty",
     position: "Head PI",
     
     description: "Leading the technical vision and development of the club",
@@ -17,7 +17,7 @@ export const facultyCoordinators = [
     img: "/assets/gallery2/prof vikash kumar.jpg"
   },
   {
-    name: "Prof. Vikash Kumar",
+    name: "Prof. Dr. Vikash Kumar",
     position: "Coordinator",
     
     description: "Coordinating club activities and student development",
